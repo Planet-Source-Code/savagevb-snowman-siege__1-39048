@@ -1,0 +1,13 @@
+<NumFrames>
+5
+
+<AnimLength>
+36
+
+<FileName>
+"\XFiles\AnimXFiles\SnowBallExp0.x",8,8
+"\XFiles\AnimXFiles\SnowBallExp1.x",8,8
+"\XFiles\AnimXFiles\SnowBallExp2.x",8,8
+"\XFiles\AnimXFiles\SnowBallExp3.x",8,8
+"\XFiles\AnimXFiles\SnowBallExp4.x",8,8
+"\XFiles\AnimXFiles\SnowBallExp5.x",8,8
