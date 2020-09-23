@@ -1,0 +1,9 @@
+<FileName>
+"\XFiles\SnowmanEvl.x"
+
+<TextureSize>
+64,64
+
+<Location>
+0
+-300,80,0,8,8,21.5,0

@@ -1,0 +1,10 @@
+<FileName>
+"\XFiles\House.x"
+
+<TextureSize>
+128,128
+
+<Location>
+1
+0,150,0,55,110,41,0
+-100,150,0,55,110,41,0
